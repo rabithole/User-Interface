@@ -63,4 +63,101 @@ h1, h2, h3, h4, h5 {
     margin-bottom: 15px;
 }
 
+
+
 /* Your code starts here! */
+
+nav {
+	display: inline-block;
+	margin: 40px 0;
+}
+
+nav a {
+	margin: 20px;
+	text-decoration: none;
+	position: relative;
+	bottom: 10px;
+}
+
+nav img {
+	margin-left: 100px;
+}
+
+header {
+	display: inline-block;
+}
+
+header div {
+	display: inline-block;
+	margin-bottom: 50px;
+}
+
+#h1-div {
+	position: relative;
+	bottom: 70px;
+}
+
+header h1 {
+	display: inline-block;
+	text-align: center;
+	font-size: 70px;
+	width: 380px;
+	margin-right: 100px;
+	position: relative;
+	left: 60px;
+}
+
+header button {
+	display: block;
+	margin: 0 auto;
+	padding: 10px;
+}
+
+#header-img {
+	display: ;
+
+}
+
+section {
+	margin: 30px 0;
+}
+
+section div {
+	display: inline-block;
+	width: 420px;
+	margin: ;
+}
+
+.three-div {
+	text-align: center;
+}
+
+.three-div div {
+	display: ;
+	width: 265px;
+	text-align: left;
+	margin: 10px 10px;
+}
+
+.margin-right {
+	margin-right: 30px;
+}
+
+.header-img {
+	
+}
+
+.container {
+	width: 876px;
+	height: 100%;
+	margin: 0 auto;
+}
+
+footer {
+	margin-top: 50px;
+}
+
+#copyright {
+	text-align: center;
+	margin: 50px auto;
+}
